@@ -5,7 +5,7 @@ FROM nodered/node-red:latest
 
 # Налаштування змінних середовища (опціонально)
 ENV TELEGRAM_BOT_TOKEN=7674561164:AAGibwiIYAnU9Y1PqtnMsrG6nYn4Ec20vgA
-ENV WEBHOOK_URL=https://053d4917-1df8-4685-95ed-264da01dbc48.railway.app/webhook
+ENV WEBHOOK_URL=https://ecf40c43-0b7a-4aa6-9cae-2d0080789041.railway.app/webhook
 
 
 # Порт, на якому буде працювати Node-RED
